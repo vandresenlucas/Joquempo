@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joquempo", "Joquempo\Joquempo.csproj", "{83C9EFFE-D7C3-43C1-AD1E-84E3DE98EDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83C9EFFE-D7C3-43C1-AD1E-84E3DE98EDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C9EFFE-D7C3-43C1-AD1E-84E3DE98EDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C9EFFE-D7C3-43C1-AD1E-84E3DE98EDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C9EFFE-D7C3-43C1-AD1E-84E3DE98EDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB96940D-06DA-4A15-8E26-B2449A60C669}
+	EndGlobalSection
+EndGlobal
